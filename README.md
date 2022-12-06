@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nicholas Szwed
-- 👀 I’m interested in Computer Science, Robotics, Astronomy 
-- 🌱 I’m currently learning Rust, Spanish, C/C++, Python
-- 📫 How to reach me email:nsszwed@gmail.com or LinkedIn: https://www.linkedin.com/in/nicholas-szwed-050b53123/
+- 👀 I’m interested in Computer Science, Robotics, Astronomy
+- 🌱 I’m currently learning Rust, C/C++, Python
+- 📫 How to reach me email:nsszwed@gmail.com or LinkedIn: https://www.linkedin.com/in/nicholas-szwed/
 
 <!---
 NickSzd/NickSzd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
