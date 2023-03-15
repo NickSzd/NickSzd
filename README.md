@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nicholas Szwed
-- 👀 I’m interested in Computer Science, Robotics, Astronomy
+- 👀 I’m interested in Computer Science, Robotics, and Astronomy
 - 🌱 I’m currently learning Rust, C/C++, Python
 - 📫 How to reach me email:nsszwed@gmail.com or LinkedIn: https://www.linkedin.com/in/nicholas-szwed/
 
