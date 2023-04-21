@@ -19,7 +19,7 @@
  
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
  
-<img src="[https://user-images.githubusercontent.com/11306104/28999421-69312b92-7a03-11e7-9268-a1a8756b5442.png]" alt="C" height="40" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/11306104/28999421-69312b92-7a03-11e7-9268-a1a8756b5442.png" alt="C" height="40" style="vertical-align:top; margin:4px">
  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
  
