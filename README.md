@@ -19,16 +19,18 @@
  
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
  
-<img src="https://seeklogo.com/vector-logo/306166/c-programming-language" alt="C" height="40" style="vertical-align:top; margin:4px">
+<img src="[https://seeklogo.com/vector-logo/306166/c-programming-language](https://i.imgur.com/zINUxVf.png)" alt="C" height="40" style="vertical-align:top; margin:4px">
  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
  
  </p>
-[![C](https://i.imgur.com/zINUxVf.png)](https://en.wikipedia.org/wiki/C_(programming_language))
+
 
 <!---
+
+[![C](https://i.imgur.com/zINUxVf.png)](https://en.wikipedia.org/wiki/C_(programming_language))v
 https://user-images.githubusercontent.com/11306104/28999421-69312b92-7a03-11e7-9268-a1a8756b5442.png
 
 NickSzd/NickSzd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
