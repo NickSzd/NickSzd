@@ -2,12 +2,13 @@
 ## 🎓 I'm a B.S Computer Science student at the University of California Santa Cruz 
 - 👀 I’m interested in Computer Science, Robotics, and Astronomy
 - 🌱 I’m currently learning Embedded RTOS development with the STM32 dev board
--  🥅 2022 Goals: Learn more about Embedded Systems
+-  🥅 2023 Goals: Learn more about Embedded Systems
 
 ## Connect with me
-&nbsp;&nbsp;
+<!-- &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/nicholas-szwed/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nicholas-szwed/#gh-dark-mode-only)
+&nbsp;&nbsp; -->
 - 📫 How to reach me email:nsszwed@gmail.com or LinkedIn: https://www.linkedin.com/in/nicholas-szwed/
  ## 🧰 Languages and Tools:
  <table>
@@ -63,3 +64,5 @@
 NickSzd/NickSzd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[linkedin]: https://www.linkedin.com/in/nicholas-szwed/
