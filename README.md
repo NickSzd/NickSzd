@@ -2,6 +2,12 @@
 ## 🎓 I'm a B.S Computer Science student at the University of California Santa Cruz 
 - 👀 I’m interested in Computer Science, Robotics, and Astronomy
 - 🌱 I’m currently learning Embedded RTOS development with the STM32 dev board
+-  🥅 2022 Goals: Learn more about Embedded Systems
+
+## Connect with me
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/nicholas-szwed/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nicholas-szwed/#gh-dark-mode-only)
 - 📫 How to reach me email:nsszwed@gmail.com or LinkedIn: https://www.linkedin.com/in/nicholas-szwed/
  ## 🧰 Languages and Tools:
  <table>
