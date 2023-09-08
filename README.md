@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @Nicholas Szwed
-## 🎓 I'm a B.S Computer Science student at the University of California Santa Cruz 
+## 🎓 B.S Computer Science from The University of California Santa Cruz 
 - 👀 I’m interested in Computer Science, Robotics, and Astronomy
 - 🌱 I’m currently learning Embedded RTOS development with the STM32 dev board
 -  🥅 2023 Goals: Learn more about Embedded Systems
