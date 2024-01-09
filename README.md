@@ -2,7 +2,7 @@
 ## 🎓 B.S Computer Science from The University of California Santa Cruz 
 - 👀 I’m interested in Computer Science, Robotics, and Astronomy
 - 🌱 I’m currently learning Embedded RTOS development with the STM32 dev board
--  🥅 2023 Goals: Learn more about Embedded Systems
+-  🥅 2024 Goals: Continue to learn about RTOS
 
 ## Connect with me
 <!-- &nbsp;&nbsp;
